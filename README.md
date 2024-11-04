@@ -95,7 +95,7 @@ Feel free to open issues or contribute to the repository. For significant change
 
 For questions or feedback, please reach out via:
 
-- **Email**: [your-email@example.com](mailto:anushdueby881@gmail.com)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/anushdubey)
+- **Email**: [anushdubey881@gmail.com](mailto:anushdueby881@gmail.com)
+- **LinkedIn**: [Anush Dubey](https://www.linkedin.com/in/anushdubey)
 
 ---
