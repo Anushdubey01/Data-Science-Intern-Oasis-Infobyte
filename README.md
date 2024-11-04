@@ -1,5 +1,3 @@
-Great! Here’s your README updated with the actual repository link:
-
 ---
 
 # Data Science Internship Projects – Oasis Infobyte
